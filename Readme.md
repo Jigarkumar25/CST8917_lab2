@@ -195,18 +195,7 @@ All required functionality was successfully validated locally using:
 
 ------------------------------------------------------------------------
 
-## 10. Submission Files
-
--   function_app.py
--   requirements.txt
--   local.settings.example.json
--   test-function.http
--   README.md
--   Demo video
-
-------------------------------------------------------------------------
-
-## 11. Conclusion
+## 10. Conclusion
 
 This lab demonstrates:
 
